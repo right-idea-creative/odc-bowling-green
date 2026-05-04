@@ -1,4 +1,4 @@
-tomlname = "odc-bowling-green"
+name = "odc-bowling-green"tomlname = "odc-bowling-green"
 compatibility_date = "2025-01-01"
 
 [assets]
